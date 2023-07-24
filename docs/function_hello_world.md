@@ -30,7 +30,7 @@ void hello_world(char *string1, char *string2);
 ## Test 3
 
 <div class="language-c highlighter-rouge">
-    <div class="highlight" style="background-color: $blue-000">
+    <div class="highlight">
         <pre class="highlight">
             <code>
                 <span class="kt">void</span>
@@ -47,7 +47,7 @@ void hello_world(char *string1, char *string2);
             </code>
         </pre>
     </div>
-<button type="button" aria-label="Copy code to clipboard"><svg viewBox="0 0 24 24" class="copy-icon"><use xlink:href="#svg-copy"></use></svg></button></div>
+</div>
 
 
 Function arguments:
