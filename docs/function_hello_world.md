@@ -16,6 +16,20 @@ nav_order: 2
 {: .warning }
 Testing the warning callout.
 
+## Test 1
+
+```c
+void hello_world(char *string1, char *string2);
+```
+
+## Test 2
+
+<div style="background-color: rgb(0, 0, 50)">
+```c
+void hello_world(char *string1, char *string2);
+```
+</div>
+
 
 Function arguments:
 
