@@ -22,9 +22,10 @@ void hello_world(char *string1, char *string2);
 
 ## Test 2
 
-<code>
-void hello_world(char *string1, char *string2);
-</code>
+{: .function }
+> ```c
+> void hello_world(char *string1, char *string2);
+> ```
 
 
 Function arguments:
