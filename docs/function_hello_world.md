@@ -27,29 +27,6 @@ void hello_world(char *string1, char *string2);
 > void hello_world(char *string1, char *string2);
 > ```
 
-## Test 3
-
-<div class="language-c highlighter-rouge">
-    <div class="highlight">
-        <pre class="highlight">
-            <code>
-                <span class="kt">void</span>
-                <span class="nf">hello_world</span>
-                <span class="p">(</span>
-                <span class="kt">char</span>
-                <span class="o">*</span>
-                <span class="n">string1</span>
-                <span class="p">,</span>
-                <span class="kt">char</span>
-                <span class="o">*</span>
-                <span class="n">string2</span>
-                <span class="p">);</span>
-            </code>
-        </pre>
-    </div>
-</div>
-
-
 Function arguments:
 
 <dl>
