@@ -1,15 +1,15 @@
 ---
 layout: default
 title: hello_world()
-nav_order: 1
+nav_order: 2
 ---
 
-{: .note-title}
-> FUNCTION
->
+{: .function}
+> ```
 > void hello_world(char *string1, char *string2);
-
-This function prints the message `<string1> Hello, world! <string2>` to the screen. A new line character (`\n`) is added to the end of the string printed.
+> ```
+>
+> This function prints the message `<string1> Hello, world! <string2>` to the screen. A new line character (`\n`) is added to the end of the string printed.
 
 
 Function arguments:
