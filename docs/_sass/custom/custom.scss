@@ -3,17 +3,18 @@
     background-color: $blue-000; /* Replace YOUR_COLOR_HERE with your desired background color */
 }
 
+.language-c..highlighter-rouge {
+    background-color: purple;
+}
+
 .highlight {
-    background-color: blue; /* Replace this with your desired background color */
-    /* Add any other styles you want for the highlighted code */
+    background-color: blue;
 }
 
-.code {
-    background-color: red; /* Replace this with your desired background color */
-    /* Add any other styles you want for the highlighted code */
+.highlight code {
+    background-color: red;
 }
 
-.pre {
-    background-color: green; /* Replace this with your desired background color */
-    /* Add any other styles you want for the highlighted code */
+.highlight pre {
+    background-color: green;
 }
