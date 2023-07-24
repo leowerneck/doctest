@@ -9,5 +9,9 @@ aux_links:
 
 callouts:
   function:
-    title: FUNCTION
-    color: purple
+    title: Function
+    color: blue
+
+  warning:
+    title: Warning
+    color: red
