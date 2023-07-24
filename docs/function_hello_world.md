@@ -4,14 +4,14 @@ title: hello_world()
 nav_order: 2
 ---
 
-{: .function}
+{: .function }
 > ```c
 > void hello_world(char *string1, char *string2);
 > ```
 >
 > This function prints the message `<string1> Hello, world! <string2>` to the screen. A new line character (`\n`) is added to the end of the string printed.
 
-{: .warning}
+{: .warning }
 Testing the warning callout.
 
 
