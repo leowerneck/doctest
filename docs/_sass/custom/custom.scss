@@ -1,20 +1,20 @@
 /* Change the background color for the .function code block */
-.callout.function .highlighter-rouge {
-    background-color: yellow; /* Replace YOUR_COLOR_HERE with your desired background color */
-}
+// .callout.function .highlighter-rouge {
+    // background-color: yellow; /* Replace YOUR_COLOR_HERE with your desired background color */
+// }
 
-.language-c.highlighter-rouge {
-    background-color: purple;
-}
+// .language-c.highlighter-rouge {
+    // background-color: purple;
+// }
 
 .highlight {
-    background-color: blue;
+    background-color: rgb(217,231,252);
 }
 
 .highlight code {
-    background-color: red;
+    background-color: rgb(217,231,252);
 }
 
 .highlight pre {
-    background-color: green;
+    background-color: rgb(217,231,252);
 }
