@@ -1,0 +1,4 @@
+/* Change the background color for the .function code block */
+.callout.function .highlighter-rouge {
+    background-color: $blue-000; /* Replace YOUR_COLOR_HERE with your desired background color */
+}
