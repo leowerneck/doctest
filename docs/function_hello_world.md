@@ -1,35 +1,25 @@
 ---
 layout: default
-title: hello_world()
-nav_order: 2
+title: hello_world
+nav_order: 3
 ---
 
-{: .function }
-> ```c
-> void hello_world(char *string1, char *string2);
-> ```
->
-> This function prints the message `<string1> Hello, world! <string2>` to the screen. A new line character (`\n`) is added to the end of the string printed.
+# **hello_world**
 
-{: .warning }
-Testing the warning callout.
-
-## Test 1
-
+### Prototype
 ```c
 void hello_world(char *string1, char *string2);
 ```
+Include the header file `hello_world_colors.h` in your code to have access to this function.
 
-## Test 2
+### Description
+This function prints the message `<string1> Hello, world! <string2>` to the screen. A new line character (`\n`) is added to the end of the string printed.
 
-{: .function }
-> ```c
-> void hello_world(char *string1, char *string2);
-> ```
+### Return value
+None.
 
-Function arguments:
-
+### Parameters
 <dl>
-  <dt>string1</dt> <dd>String printed before message <pre>Hello, world!</pre></dd>
-  <dt>string2</dt> <dd>String printed after message <pre>Hello, world!</pre></dd>
+  <dt>string1</dt> <dd>String printed before message <code>"Hello, world!"</code></dd>
+  <dt>string2</dt> <dd>String printed after message <code>"Hello, world!"</code></dd>
 </dl>

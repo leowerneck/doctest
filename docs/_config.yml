@@ -11,17 +11,18 @@ color_scheme: nil
 
 callouts_level: quiet # or loud
 callouts:
-  highlight:
-    color: yellow
-  function:
-    title: Function
+  prototype:
+    title: Prototype
     color: blue
-  new:
-    title: New
-    color: green
-  note:
-    title: Note
+  description:
+    title: Description
     color: purple
+  retval:
+    title: Return Value
+    color: green
+  parameters:
+    title: Parameters
+    color: yellow
   warning:
     title: Warning
     color: red
